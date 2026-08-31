@@ -15,3 +15,13 @@
 @media(max-width:760px){.bar-preview{grid-template-columns:1fr}.bar-preview-image{min-height:340px}.bar-preview-copy{padding:3.5rem 1.15rem}.bar-preview h2{font-size:3.35rem}}
 .client-invitation{background:#e8dfd1;border-top:1px solid #d1c5b4;padding-top:clamp(5rem,8vw,8rem);padding-bottom:clamp(5rem,8vw,8rem);display:grid;grid-template-columns:.38fr 1fr;gap:clamp(2rem,6vw,7rem);align-items:start}.client-invitation>div{max-width:860px}.client-invitation h2{font-size:clamp(3.2rem,6vw,6.5rem);margin-top:0}.client-invitation p:not(.section-number){max-width:700px;color:var(--soft);font-size:1.05rem;margin:1.5rem 0 2rem}.client-invitation .pill{width:fit-content}
 @media(max-width:760px){.client-invitation{grid-template-columns:1fr;gap:1rem;padding-top:4.5rem;padding-bottom:5.5rem}.client-invitation h2{font-size:3.25rem}.client-invitation .pill{width:100%;text-align:center}}
+
+
+.client-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem .65rem;
+  align-items: center;
+}
+
+.client-contact a { text-underline-offset: .18em; }
