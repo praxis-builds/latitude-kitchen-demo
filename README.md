@@ -40,4 +40,11 @@ The site includes semantic landmarks, a skip link, labelled controls, visible fo
 
 ## GitHub Pages
 
-After content, licensing, accessibility, privacy, and real integrations receive client approval, publish the static root to a repository and select its deployment branch in **Settings → Pages**. Nothing in this demonstration has been deployed.
+The demonstration is published through GitHub Pages at **https://praxis-builds.github.io/latitude-kitchen-demo/**.
+
+## License and permitted use
+
+This repository is publicly viewable as a Praxis Builds portfolio demonstration, but it is **not open-source software**. The code and original design are provided for review only and may not be copied, modified, redistributed, deployed, sold, or used to create derivative work without written permission.
+
+See the [LICENSE](LICENSE) file for the complete notice. Third-party assets remain subject to their respective licenses.
+
